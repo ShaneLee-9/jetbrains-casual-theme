@@ -1,4 +1,12 @@
 <scheme name="Casual" version="142" parent_scheme="Darcula">
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hack Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="FZYouHei_GBK 508R" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
+  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="fcecc4" />
     <option name="ANNOTATIONS_COLOR" value="282a35" />
@@ -891,7 +899,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f9b8d1" />
+        <option name="FOREGROUND" value="c2d3fc" />
       </value>
     </option>
     <option name="HTTP_REQUEST_MESSAGE_BODY">
@@ -1909,7 +1917,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f9b8d1" />
+        <option name="FOREGROUND" value="c2d3fc" />
       </value>
     </option>
     <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
@@ -1960,13 +1968,4 @@
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Hack Nerd Font Mono" />
-    <option name="EDITOR_FONT_SIZE" value="19" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="FZYouHei_GBK 508R" />
-    <option name="EDITOR_FONT_SIZE" value="19" />
-  </font>
 </scheme>
