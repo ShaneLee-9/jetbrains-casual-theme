@@ -250,48 +250,48 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="bd93f9" />
+        <option name="FOREGROUND" value="c0f799" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FOREGROUND" value="b7d2f7" />
       </value>
     </option>
     <option name="CSS.HASH">
       <value>
-        <option name="FOREGROUND" value="98f9b2" />
+        <option name="FOREGROUND" value="e3f771" />
       </value>
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="98f9b2" />
+        <option name="FOREGROUND" value="b0d9f4" />
       </value>
     </option>
     <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FOREGROUND" value="ddffb2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="bd93f9" />
+        <option name="FOREGROUND" value="fcecc2" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
       <value>
-        <option name="FOREGROUND" value="98f9b2" />
+        <option name="FOREGROUND" value="f785ba" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="6ff2eb" />
+        <option name="FOREGROUND" value="b2ffca" />
       </value>
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="ffb86c" />
+        <option name="FOREGROUND" value="fcc4e1" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -967,6 +967,11 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="9af9ee" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
@@ -998,22 +1003,22 @@
     </option>
     <option name="JSON.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="6ff2eb" />
+        <option name="FOREGROUND" value="76f278" />
       </value>
     </option>
     <option name="JSON.NUMBER">
       <value>
-        <option name="FOREGROUND" value="bd93f9" />
+        <option name="FOREGROUND" value="f492a3" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FOREGROUND" value="b2ffcf" />
       </value>
     </option>
     <option name="JSON.STRING">
       <value>
-        <option name="FOREGROUND" value="f1fa8c" />
+        <option name="FOREGROUND" value="bdf6f3" />
       </value>
     </option>
     <option name="JSON.VALID_ESCAPE">
@@ -1208,11 +1213,6 @@
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
         <option name="BACKGROUND" value="747a9d" />
-      </value>
-    </option>
-    <option name="MATCHED_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="6ff2eb" />
       </value>
     </option>
     <option name="Map key">
@@ -1505,27 +1505,27 @@
     </option>
     <option name="REGEXP.BRACES">
       <value>
-        <option name="FOREGROUND" value="6ff2eb" />
+        <option name="FOREGROUND" value="da808f" />
       </value>
     </option>
     <option name="REGEXP.BRACKETS">
       <value>
-        <option name="FOREGROUND" value="6ff2eb" />
+        <option name="FOREGROUND" value="fffaa2" />
       </value>
     </option>
     <option name="REGEXP.CHAR_CLASS">
       <value>
-        <option name="FOREGROUND" value="6ff2eb" />
+        <option name="FOREGROUND" value="fa9a7c" />
       </value>
     </option>
     <option name="REGEXP.COMMA">
       <value>
-        <option name="FOREGROUND" value="6ff2eb" />
+        <option name="FOREGROUND" value="bff4ed" />
       </value>
     </option>
     <option name="REGEXP.ESC_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="f2f014" />
       </value>
     </option>
     <option name="REGEXP.INVALID_STRING_ESCAPE">
@@ -1537,17 +1537,17 @@
     </option>
     <option name="REGEXP.META">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FOREGROUND" value="ec7a87" />
       </value>
     </option>
     <option name="REGEXP.PARENTHS">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="54c0a2" />
       </value>
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="6ff2eb" />
+        <option name="FOREGROUND" value="e1dfba" />
       </value>
     </option>
     <option name="REGEXP.REDUNDANT_ESCAPE">
@@ -1682,7 +1682,7 @@
     </option>
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="98f9b2" />
+        <option name="FOREGROUND" value="b7fbff" />
       </value>
     </option>
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
@@ -1806,19 +1806,14 @@
         <option name="ERROR_STRIPE_COLOR" value="e998ff" />
       </value>
     </option>
-    <option name="TS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="bd93f9" />
-      </value>
-    </option>
     <option name="TS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FOREGROUND" value="e1b7f7" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="bd93f9" />
+        <option name="FOREGROUND" value="abfcf0" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
@@ -1887,62 +1882,43 @@
         <option name="FOREGROUND" value="ff5555" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="98f9b2" />
-      </value>
-    </option>
-    <option name="XML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="bd93f9" />
-      </value>
-    </option>
-    <option name="XML_NS_PREFIX">
-      <value>
-        <option name="FOREGROUND" value="8be9fd" />
-      </value>
-    </option>
-    <option name="XML_TAG">
-      <value>
-        <option name="FOREGROUND" value="6ff2eb" />
-      </value>
-    </option>
-    <option name="XML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="c2d3fc" />
-      </value>
-    </option>
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
-        <option name="FOREGROUND" value="ffb86c" />
+        <option name="FOREGROUND" value="adffad" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FOREGROUND" value="fcf67e" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="98f9b2" />
+        <option name="FOREGROUND" value="f4a6d1" />
         <option name="BACKGROUND" value="282a36" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
       <value>
-        <option name="FOREGROUND" value="98f9b2" />
+        <option name="FOREGROUND" value="efa0c4" />
         <option name="BACKGROUND" value="282a36" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="bd93f9" />
+        <option name="FOREGROUND" value="ffa8cc" />
         <option name="BACKGROUND" value="282a36" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
