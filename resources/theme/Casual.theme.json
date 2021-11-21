@@ -6,7 +6,7 @@
   "colors": {
     "accentColor": "#9cff72",
     "secondaryAccentColor": "#ffd6cc",
-    "primaryForeground": "#f8f8f2",
+    "primaryForeground": "#f6f8e5",
     "primaryBackground": "#414450",
     "secondaryBackground": "#3a3d4c",
     "hoverBackground": "#282a36",
@@ -332,7 +332,7 @@
       "Objects.Yellow": "#f1fa8c",
       "Objects.YellowDark": "#f1fa8c",
       "Objects.BlackText": "#282a35",
-      "Checkbox.Foreground.Selected.Dark": "#f8f8f2",
+      "Checkbox.Foreground.Selected.Dark": "#f6f8e5",
       "Checkbox.Border.Default.Dark": "#ffd6cc",
       "Checkbox.Border.Selected.Dark": "#ffd6cc",
       "Checkbox.Border.Disabled.Dark": "#6272a4",
