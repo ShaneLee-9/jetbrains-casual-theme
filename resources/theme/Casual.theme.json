@@ -21,10 +21,10 @@
     "tabSelectedBg": "#0d5389",
     "tableGridColor": "#9b0621",
 
-    "errorColor": "#f9898f",
+    "errorColor": "#ffd1cc",
     "warning": "#cbf780",
     "successColor": "#50fa7b",
-    "errorColorDarken": "#915054",
+    "errorColorDarken": "#725e5b",
     "warningColorDarken": "#5e723c",
 
 
