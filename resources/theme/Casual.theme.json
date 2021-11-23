@@ -22,10 +22,10 @@
     "tableGridColor": "#9b0621",
 
     "errorColor": "#ffd1cc",
-    "warning": "#cbf780",
+    "warning": "#fced7b",
     "successColor": "#50fa7b",
     "errorColorDarken": "#725e5b",
-    "warningColorDarken": "#5e723c",
+    "warningColorDarken": "#e0b116",
 
 
     "test": "#48b764"
