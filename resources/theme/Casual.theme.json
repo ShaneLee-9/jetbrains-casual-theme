@@ -23,7 +23,7 @@
 
     "errorColor": "#ffd1cc",
     "warning": "#fced7b",
-    "successColor": "#50fa7b",
+    "successColor": "#b9f293",
     "errorColorDarken": "#725e5b",
     "warningColorDarken": "#e0b116",
 
@@ -32,7 +32,7 @@
   },
   "ui": {
     "*": {
-      "arc": "7",
+      "arc": "10",
       "background": "primaryBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -73,7 +73,7 @@
     },
     "Counter": {
       "foreground": "primaryBackground",
-      "background": "#2fc864"
+      "background": "#83efb7"
     },
     "CheckBoxMenuItem": {
       "acceleratorSelectionForeground": "accentColor"
@@ -118,12 +118,12 @@
       "underlineHeight": 2
     },
     "FileColor": {
-      "Blue": "#344f54",
-      "Green": "#344535",
-      "Orange": "#533f30",
-      "Yellow": "#4f4b41",
-      "Rose": "#4c273c",
-      "Violet": "#382b4a"
+      "Blue": "#04477a",
+      "Green": "#234124",
+      "Orange": "#bf3c00",
+      "Yellow": "#343805",
+      "Rose": "#b804c9",
+      "Violet": "#270570"
     },
     "Label": {
       "errorForeground": "errorColor"
@@ -281,11 +281,11 @@
         }
       },
       "GitLog": {
-        "headIconColor": "#fcd571",
-        "localBranchIconColor": "#f9b6e6",
-        "remoteBranchIconColor": "secondaryAccentColor",
-        "tagIconColor": "accentColor",
-        "otherIconColor": "#f7e87b"
+        "headIconColor": "#ff72af",
+        "localBranchIconColor": "#fcb88a",
+        "remoteBranchIconColor": "#7ff4ae",
+        "tagIconColor": "#9be1ef",
+        "otherIconColor": "#88fccf"
       },
       "Log": {
         "Commit": {
@@ -314,17 +314,17 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Blue": "#5da3f4",
-      "Actions.Green": "#2fc864",
-      "Actions.Grey": "#858994",
-      "Actions.GreyInline.Dark": "#2fc864",
-      "Actions.GreyInline": "#2fc864",
+      "Actions.Blue": "#b3d6f9",
+      "Actions.Green": "#83efb7",
+      "Actions.Grey": "#bababa",
+      "Actions.GreyInline.Dark": "#83efb7",
+      "Actions.GreyInline": "#83efb7",
       "Actions.Red": "#ff5554",
       "Actions.Yellow": "#f1fa8c",
-      "Objects.Blue": "#5da3f4",
-      "Objects.Green": "#2fc864",
-      "Objects.GreenAndroid": "#2fc864",
-      "Objects.Grey": "#858994",
+      "Objects.Blue": "#b3d6f9",
+      "Objects.Green": "#83efb7",
+      "Objects.GreenAndroid": "#83efb7",
+      "Objects.Grey": "#bababa",
       "Objects.Pink": "#ff79c6",
       "Objects.Purple": "#bd93f9",
       "Objects.Red": "#ff5554",
