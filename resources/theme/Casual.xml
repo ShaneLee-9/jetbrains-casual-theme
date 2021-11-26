@@ -4,7 +4,6 @@
     <option name="ANNOTATIONS_COLOR" value="282a35" />
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="282a36" />
     <option name="DELETED_LINES_COLOR" value="cd4644" />
     <option name="DOCUMENTATION_COLOR" value="3a3d4c" />
     <option name="DOC_COMMENT_LINK" value="47e842" />
@@ -2064,10 +2063,5 @@
         <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
-    <option name="JSON.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JSON.NUMBER" baseAttributes="DEFAULT_NUMBER" />
-    <option name="JSON.PROPERTY_KEY" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="JSON.STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="JSON.VALID_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
   </attributes>
 </scheme>

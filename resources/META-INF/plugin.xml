@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.your.company.unique.plugin.id</id>
   <name>Casual Theme</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
 
   <description><![CDATA[
