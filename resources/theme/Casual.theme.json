@@ -4,14 +4,14 @@
   "author": "ShaneLee",
   "editorScheme": "/theme/Casual.xml",
   "colors": {
-    "accentColor": "#f280af",
-    "secondaryAccentColor": "#bf6ce2",
+    "accentColor": "#928bed",
+    "secondaryAccentColor": "#6e69b0",
     "primaryForeground": "#d5f1e5",
     "primaryBackground": "#2d2d2d",
     "secondaryBackground": "#383838",
-    "hoverBackground": "#3a2b38",
-    "selectionBackground": "#8c6267",
-    "selectionInactiveBackground": "#6b4b4e",
+    "hoverBackground": "#4b4b4b",
+    "selectionBackground": "#5b54b2",
+    "selectionInactiveBackground": "#302c5d",
     "borderColor": "#3a2b38",
     "separatorColor": "#3f3f3f",
     "underlineBg": "#5b607c",
@@ -111,7 +111,7 @@
     },
     "EditorTabs": {
       "background": "secondaryBackground",
-      "underlinedTabBackground": "underlineBg",
+      "underlinedTabBackground": "secondaryBackground",
       "underlineColor": "secondaryAccentColor",
       "underlineHeight": 4
     },
@@ -119,7 +119,7 @@
       "Blue": "#43678f",
       "Green": "#3b773b",
       "Orange": "#bf4900",
-      "Yellow": "#464230",
+      "Yellow": "#3d392a",
       "Rose": "#89428c",
       "Violet": "#7950a9"
     },
@@ -259,8 +259,7 @@
       "HeaderTab": {
         "underlineColor": "secondaryAccentColor",
         "underlineHeight": 4,
-        "underlinedTabBackground": "underlineBg",
-        "underlinedTabInactiveBackground": "tabSelectedBg"
+        "underlinedTabBackground": "secondaryBackground"
       }
     },
     "Tree": {
@@ -279,11 +278,11 @@
         }
       },
       "GitLog": {
-        "headIconColor": "#ccdeff",
-        "localBranchIconColor": "#e0f490",
-        "remoteBranchIconColor": "#ea69ca",
-        "tagIconColor": "#f990b0",
-        "otherIconColor": "#fcd7ae"
+        "headIconColor": "#FF87CA",
+        "localBranchIconColor": "#FFAB4C",
+        "remoteBranchIconColor": "#77D970",
+        "tagIconColor": "#3DB2FF",
+        "otherIconColor": "#a77cf1"
       },
       "Log": {
         "Commit": {
@@ -312,18 +311,19 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Blue": "#c6ceff",
-      "Actions.Green": "#81f4c4",
+      "Actions.Blue": "#3DB2FF",
+      "Actions.Green": "#2FDD92",
       "Actions.Grey": "#d3d3d3",
-      "Actions.GreyInline.Dark": "#81f4c4",
-      "Actions.GreyInline": "#81f4c4",
+      "Actions.GreyInline.Dark": "#2FDD92",
+      "Actions.GreyInline": "#2FDD92",
       "Actions.Red": "#f99381",
       "Actions.Yellow": "#f9e17f",
-      "Objects.Blue": "#c6ceff",
-      "Objects.Green": "#81f4c4",
-      "Objects.GreenAndroid": "#81f4c4",
+      "Objects.Blue": "#3DB2FF",
+      "Objects.Green": "#2FDD92",
+      "Objects.GreenAndroid": "#2FDD92",
       "Objects.Grey": "#d3d3d3",
       "Objects.Pink": "#f48bc1",
+
       "Objects.Purple": "#ce75f4",
       "Objects.Red": "#f99381",
       "Objects.RedStatus": "#f99381",

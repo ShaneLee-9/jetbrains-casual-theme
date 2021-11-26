@@ -5,7 +5,7 @@
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
     <option name="DELETED_LINES_COLOR" value="cd4644" />
-    <option name="DOCUMENTATION_COLOR" value="3a3d4c" />
+    <option name="DOCUMENTATION_COLOR" value="423f3e" />
     <option name="DOC_COMMENT_LINK" value="47e842" />
     <option name="FILESTATUS_ADDED" value="98f9b2" />
     <option name="FILESTATUS_COPIED" value="98f9b2" />
@@ -33,13 +33,15 @@
     <option name="INFORMATION_HINT" value="3a3d4c" />
     <option name="LINE_NUMBERS_COLOR" value="65736a" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d5f1e5" />
-    <option name="LOOKUP_COLOR" value="3a3d4c" />
+    <option name="LOOKUP_COLOR" value="423f3e" />
     <option name="METHOD_SEPARATORS_COLOR" value="65736a" />
     <option name="MODIFIED_LINES_COLOR" value="74b4c1" />
+    <option name="PROMOTION_PANE" value="e10404" />
+    <option name="QUESTION_HINT" value="376c89" />
     <option name="RIGHT_MARGIN_COLOR" value="753e59" />
     <option name="SELECTED_INDENT_GUIDE" value="d5f1e5" />
     <option name="SELECTED_TEARLINE_COLOR" value="d5f1e5" />
-    <option name="SELECTION_BACKGROUND" value="666b87" />
+    <option name="SELECTION_BACKGROUND" value="6b6b6b" />
     <option name="SEPARATOR_ABOVE_COLOR" value="6b7090" />
     <option name="SEPARATOR_BELOW_COLOR" value="6b7090" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="bd93f9" />
@@ -248,25 +250,9 @@
         <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
-    <option name="CSS.ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="6eeaba" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="CSS.CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="f7c39b" />
-      </value>
-    </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="b3f490" />
-      </value>
-    </option>
-    <option name="CSS.FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ffe2a8" />
+        <option name="FOREGROUND" value="10efbd" />
       </value>
     </option>
     <option name="CSS.HASH">
@@ -274,49 +260,10 @@
         <option name="FOREGROUND" value="fcbada" />
       </value>
     </option>
-    <option name="CSS.IDENT">
-      <value>
-        <option name="FOREGROUND" value="10efbd" />
-      </value>
-    </option>
-    <option name="CSS.IMPORTANT">
-      <value>
-        <option name="FOREGROUND" value="fcd9ba" />
-      </value>
-    </option>
-    <option name="CSS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="81f4c2" />
-      </value>
-    </option>
-    <option name="CSS.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="bdecf9" />
-      </value>
-    </option>
-    <option name="CSS.OPERATORS">
-      <value>
-        <option name="FOREGROUND" value="a2d8f2" />
-      </value>
-    </option>
-    <option name="CSS.PROPERTY_NAME">
-      <value>
-        <option name="FOREGROUND" value="ea98cf" />
-      </value>
-    </option>
-    <option name="CSS.PROPERTY_VALUE">
-      <value>
-        <option name="FOREGROUND" value="84f9ab" />
-      </value>
-    </option>
+    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PSEUDO">
       <value>
         <option name="FOREGROUND" value="a4a9fc" />
-      </value>
-    </option>
-    <option name="CSS.TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="71f2e9" />
       </value>
     </option>
     <option name="CSS.UNICODE.RANGE">
@@ -324,11 +271,7 @@
         <option name="FOREGROUND" value="ef8bb1" />
       </value>
     </option>
-    <option name="CSS.URL">
-      <value>
-        <option name="FOREGROUND" value="70efeb" />
-      </value>
-    </option>
+    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="c6ea69" />
@@ -383,35 +326,24 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value>
-        <option name="FOREGROUND" value="f791ac" />
-      </value>
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="36ffac" />
-      </value>
-    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="f99d90" />
+        <option name="FOREGROUND" value="b7b7ff" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FOREGROUND" value="f1c4ff" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
-      <value>
-        <option name="FOREGROUND" value="fcbfcd" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="8af2dd" />
+        <option name="FOREGROUND" value="7ff9d7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -439,11 +371,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="DEFAULT_DOT">
-      <value>
-        <option name="FOREGROUND" value="c2a1ee" />
-      </value>
-    </option>
     <option name="DEFAULT_ENTITY">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -451,7 +378,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="98f9b2" />
+        <option name="FOREGROUND" value="c8c6ff" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -475,7 +402,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="aaffd9" />
         <option name="BACKGROUND" value="383838" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -505,7 +432,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="fffbbf" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -533,23 +459,13 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="bd93f9" />
-      </value>
-    </option>
-    <option name="DEFAULT_OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="f7b77b" />
+        <option name="FOREGROUND" value="f49fd1" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="aee7fc" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value>
-        <option name="FOREGROUND" value="f7b77b" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -572,9 +488,7 @@
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="8df4cd" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -928,38 +842,11 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="7df2ba" />
-      </value>
-    </option>
-    <option name="HTML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="c6cfff" />
-      </value>
-    </option>
-    <option name="HTML_CODE">
-      <value>
-        <option name="FOREGROUND" value="ffaed8" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="HTML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="f9c6a2" />
-      </value>
-    </option>
-    <option name="HTML_TAG">
-      <value>
-        <option name="FOREGROUND" value="ffc4c7" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="f2aff7" />
-      </value>
-    </option>
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HTTP_REQUEST_MESSAGE_BODY">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
@@ -1884,24 +1771,9 @@
         <option name="ERROR_STRIPE_COLOR" value="e998ff" />
       </value>
     </option>
-    <option name="TS.CLASS">
-      <value>
-        <option name="FOREGROUND" value="f3ffaf" />
-      </value>
-    </option>
-    <option name="TS.INTERFACE">
-      <value>
-        <option name="FOREGROUND" value="87f785" />
-      </value>
-    </option>
     <option name="TS.MODULE_NAME">
       <value>
-        <option name="FOREGROUND" value="7bede3" />
-      </value>
-    </option>
-    <option name="TS.TYPE.ALIAS">
-      <value>
-        <option name="FOREGROUND" value="9cfce4" />
+        <option name="FOREGROUND" value="fcd79f" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
@@ -1979,35 +1851,18 @@
         <option name="FOREGROUND" value="ff5555" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME">
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7df2ba" />
-      </value>
-    </option>
-    <option name="XML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="c6cfff" />
+        <option name="FOREGROUND" value="c6d3ff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
-    <option name="XML_TAG">
-      <value>
-        <option name="FOREGROUND" value="ffc4c7" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="XML_TAG_DATA">
-      <value>
-        <option name="FOREGROUND" value="bddefc" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="XML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="f2aff7" />
-      </value>
-    </option>
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
@@ -2061,6 +1916,12 @@
     <option name="org.toml.KEY">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="f4abf2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
   </attributes>
