@@ -6,9 +6,9 @@
   "colors": {
     "accentColor": "#928bed",
     "secondaryAccentColor": "#6e69b0",
-    "primaryForeground": "#d5f1e5",
-    "primaryBackground": "#2d2d2d",
-    "secondaryBackground": "#383838",
+    "primaryForeground": "#c8d3f5",
+    "primaryBackground": "#272936",
+    "secondaryBackground": "#2e303f",
     "hoverBackground": "#4b4b4b",
     "selectionBackground": "#5b54b2",
     "selectionInactiveBackground": "#302c5d",
@@ -34,6 +34,7 @@
     "*": {
       "arc": "8",
       "background": "primaryBackground",
+      "foreground": "primaryForeground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
       "selectionBackground": "selectionBackground",
