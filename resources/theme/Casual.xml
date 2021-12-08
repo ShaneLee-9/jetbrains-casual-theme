@@ -892,40 +892,40 @@
     </option>
     <option name="HTML:INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="FOREGROUND" value="ff8e90" />
+        <option name="FOREGROUND" value="ebbdfc" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="9ef99d" />
+        <option name="FOREGROUND" value="95d0f9" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="aed7fc" />
+        <option name="FOREGROUND" value="f9ddb6" />
       </value>
     </option>
     <option name="HTML_CODE">
       <value>
-        <option name="FOREGROUND" value="fcc726" />
+        <option name="FOREGROUND" value="93baf9" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="f78598" />
+        <option name="FOREGROUND" value="9ab3f4" />
       </value>
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="ee7b77" />
+        <option name="FOREGROUND" value="a4bdf4" />
         <option name="BACKGROUND" value="2e303f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="bdbbf9" />
+        <option name="FOREGROUND" value="f2d18a" />
       </value>
     </option>
     <option name="HTTP_REQUEST_MESSAGE_BODY">
